@@ -1,4 +1,4 @@
-# Book_My_Slot
+# Book My Slot / Booking App
 
 ## About Project:
 A meeting room booking system is software that allows people and employees to book meeting rooms and track their use. This type of booking system is often used by businesses, schools, and other organizations and in flexible workspaces.
@@ -9,6 +9,7 @@ A meeting room booking system is software that allows people and employees to bo
 * PHP
 * SQL
 
+### Tools: Wampserver, Notepad.
 Home page
  ![image](https://github.com/asrujana/Book_My_Slot/assets/85404548/26677884-afed-450d-93c8-dfb96570e7da)
  
